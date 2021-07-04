@@ -12,3 +12,10 @@
 ##### 6.Adding Columns
 ##### 7.Dropping columns
 ##### 8.Renaming Columns
+
+
+## Pyspark3--
+##### 1.Dropping Columns
+##### 2.Dropping Rows
+##### 3.Various Parameter In Dropping functionalities
+##### 4.Handling Missing Values by Mean, Median And Mode
