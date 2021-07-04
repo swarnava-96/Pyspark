@@ -19,3 +19,6 @@
 ##### 2.Dropping Rows
 ##### 3.Various Parameter In Dropping functionalities
 ##### 4.Handling Missing Values by Mean, Median And Mode
+
+## Pyspark4--
+##### Filter operations
