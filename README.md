@@ -3,12 +3,11 @@
 ## Pyspark_1-- Basic introduction to Pyspark with Python.
 
 ## Pyspark2--
-1.PySpark Dataframe
-2.Reading The Dataset
-3.Checking the Datatypes of the Column(Schema)
-4.Selecting Columns And Indexing
-5.Check Describe option similar to Pandas
-6.Adding Columns
-7.Dropping columns
-8.Renaming Columns
-
+##### 1.PySpark Dataframe
+##### 2.Reading The Dataset
+##### 3.Checking the Datatypes of the Column(Schema)
+##### 4.Selecting Columns And Indexing
+##### 5.Check Describe option similar to Pandas
+##### 6.Adding Columns
+##### 7.Dropping columns
+##### 8.Renaming Columns
